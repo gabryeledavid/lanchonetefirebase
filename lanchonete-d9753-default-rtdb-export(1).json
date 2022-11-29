@@ -1,0 +1,98 @@
+{
+  "comidas": [
+    null,
+    {
+      "nome": "coxinha",
+      "valor": "R$2.00"
+    },
+    {
+      "nome": "suco",
+      "valor": "R$2.00"
+    },
+    {
+      "nome": "biscoito",
+      "valor": "R$2.00"
+    },
+    {
+      "nome": "sonho",
+      "valor": "R$4.00"
+    },
+    {
+      "nome": "pizza",
+      "valor": "R$30.00"
+    },
+    {
+      "nome": "sanduíche",
+      "valor": "R$10.00"
+    },
+    {
+      "nome": "croissant",
+      "valor": "R$7.00"
+    },
+    {
+      "nome": "bolo",
+      "valor": "R$2.00"
+    },
+    {
+      "nome": "sorvete",
+      "valor": "R$2.50"
+    },
+    {
+      "nome": "refri",
+      "valor": "R$7.00"
+    }
+  ],
+  "funcionarios": [
+    null,
+    {
+      "cargo": "cozinheiro",
+      "nome": "david",
+      "telefone": 9.874329874329765e+22
+    },
+    {
+      "cargo": "dona",
+      "nome": "gaby",
+      "telefone": 876542765
+    },
+    {
+      "cargo": "cozinheira",
+      "nome": "dilma",
+      "telefone": 765387658654654
+    },
+    {
+      "cargo": "motoboy",
+      "nome": "daniel",
+      "telefone": 32987878721878764
+    },
+    {
+      "cargo": "garcon",
+      "nome": "lucas",
+      "telefone": 62655763574214
+    },
+    {
+      "cargo": "garcon",
+      "nome": "carlos",
+      "telefone": 3839839384743652400
+    },
+    {
+      "cargo": "atendente",
+      "nome": "isabele",
+      "telefone": 398732176321
+    },
+    {
+      "cargo": "atendente",
+      "nome": "maria",
+      "telefone": 987676543
+    },
+    {
+      "cargo": "motoboy",
+      "nome": "felipe",
+      "telefone": 98765765
+    },
+    {
+      "cargo": "atendente",
+      "nome": "sandra",
+      "telefone": 636653437367525
+    }
+  ]
+}
